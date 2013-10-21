@@ -1,1 +1,2 @@
 date:2013-10-18	repo:steven	file:SHARYANTO-Shortcuts-0.01.tar.gz	ver:0.01	size:10255
+date:2013-10-21	repo:steven	file:SHARYANTO-Shortcuts-0.02.tar.gz	ver:0.02	size:10621
