@@ -3,3 +3,5 @@ date:2013-10-21	repo:steven	file:SHARYANTO-Shortcuts-0.02.tar.gz	ver:0.02	size:1
 date:2013-10-24	repo:steven	file:SHARYANTO-Shortcuts-0.03.tar.gz	ver:0.03	size:10475
 date:2013-10-25	repo:steven	file:SHARYANTO-Shortcuts-0.04.tar.gz	ver:0.04	size:11103
 date:2013-10-31	repo:steven	file:SHARYANTO-TaskTimer-Counter-0.01.tar.gz	ver:0.01	size:5089
+date:2013-11-04	repo:steven	file:SHARYANTO-TimeSheet-Parser-0.02.tar.gz	ver:0.02	size:7271
+date:2013-11-04	repo:steven	file:SHARYANTO-TimeSheet-Parser-0.03.tar.gz	ver:0.03	size:7351
