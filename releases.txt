@@ -10,3 +10,4 @@ date:2013-11-07	repo:steven	file:SHARYANTO-TimeSheet-Parser-0.04.tar.gz	ver:0.04
 date:2013-11-13	repo:steven	file:SHARYANTO-Shortcuts-0.05.tar.gz	ver:0.05	size:13613
 date:2014-01-21	repo:steven	file:SHARYANTO-TimeSheet-Parser-0.05.tar.gz	ver:0.05	size:10578
 date:2014-01-28	repo:steven	file:SHARYANTO-TimeSheet-Parser-0.06.tar.gz	ver:0.06	size:11765
+date:2014-03-20	repo:steven	file:SHARYANTO-YAML-Any-0.58.tar.gz	ver:0.58	size:6216
